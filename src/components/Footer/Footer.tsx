@@ -1,5 +1,4 @@
 import './Footer.css';
-import { ReactComponent as VKIcon } from '../../images/icons/vk.svg';
 import { ReactComponent as GitHubIcon } from '../../images/icons/gitHub.svg';
 import { ReactComponent as TelegramIcon } from '../../images/icons/telegram.svg';
 
